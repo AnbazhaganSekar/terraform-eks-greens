@@ -8,26 +8,26 @@ variable "subnet_id_1" {
 
   type = string
 
-  default = "subnet-03bf5faee908d1a2f"
+  default = "subnet-0f439b8c3da156844"
 
  }
  variable "subnet_id_2" {
 
   type = string
 
-  default = "subnet-04acc33d07237005f"
+  default = "subnet-0a4348cebe7bc64fd"
 
  }
  variable "subnet_id_3" {
   
   type = string
 
-  default = "subnet-0c887fd14fad52374"
+  default = "subnet-06e26fe835c43628a"
 
  }
 
  variable "vpc_id" {
   type = string
-  default = "vpc-0b9f2a5f7910d550b"
+  default = "vpc-0ae8f8ec41966e387"
    
  }
